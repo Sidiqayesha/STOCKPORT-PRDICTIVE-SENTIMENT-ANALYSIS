@@ -1,0 +1,2 @@
+# STOCKPORT-PRDICTIVE-SENTIMENT-ANALYSIS
+Project on sentiment analysis
